@@ -1,0 +1,6 @@
+/* ejemplo2.css   AR19085  */
+pais {background-color:blue;}
+departamento {background-color:rgb(255, 0, 0); display:block;} 
+cabecera {color:rgb(228, 20, 20); display:inline;} 
+habitantes {color:rgb(183, 0, 255); display:inline;}
+altura {color:hsl(29, 100%, 50%);font-size:1cm; display:none;}
