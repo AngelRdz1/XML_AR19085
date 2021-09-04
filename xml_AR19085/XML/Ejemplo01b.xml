@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="Ejemplo01b.css" ?>
+<!-- ejemplo1.xml  AR19085 -->
+<fichero>
+  <ficha id="1" fechaingreso="1/11/2012">
+    <nombre name="Nombre: ">Antonio</nombre>
+    <apellido name="Apellido: ">Barbero</apellido>
+    <direccion name="Direccion: ">Calle de Los Andes, 45</direccion>
+  </ficha>
+  <ficha id="2" fechaingreso="2/9/2021">
+    <nombre name="Nombre: ">Angel</nombre>
+    <apellido name="Apellido: ">Rodriguez</apellido>
+    <direccion name="Direccion: ">Colonia Miramar</direccion>
+    <telefono name="Telefono: ">63062225</telefono>
+    <email name="Email: ">angelrodriguez@gmail.com</email>
+    <webPersonal name="Web Personal: ">miwebpersonal.com/angelrodriguez</webPersonal>
+  </ficha>
+  <ficha id="3" fechaingreso="2/9/2021">
+    <nombre name="Nombre: ">Kiara</nombre>
+    <apellido name="Apellido: ">Ayala</apellido>
+    <direccion name="Direccion: ">San Salvador</direccion>
+    <telefono name="Telefono: ">70043328</telefono>
+    <email name="Email: ">kiaraayala@gmail.com</email>
+    <webPersonal name="Web Personal: ">miwebpersonal.com/kiaraayala</webPersonal>
+    <dui name="DUI: ">056567248-8</dui>
+    <afp name="AFP: ">1578723878854</afp>
+    <isss name="ISSS: ">654879354214</isss>
+  </ficha>
+
+</fichero>

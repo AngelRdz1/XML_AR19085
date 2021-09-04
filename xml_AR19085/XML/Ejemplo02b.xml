@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="Ejemplo02b.css" ?>
+<!-- ejemplo2.xml  AR19085 -->
+<pais nombre="El Salvador">
+  <departamento id="1" name="San Salvador">
+    <cabecera name="Cabecera: ">San Salvador</cabecera>
+    <habitantes name="Habitantes: ">1,700,000</habitantes>
+    <altura name="Altura">545 MSNM</altura>
+  </departamento>
+
+  <departamento id="2" name="La Paz">
+    <cabecera name="Cabecera: ">Zacatecoluca</cabecera>
+    <habitantes name="Habitantes: ">	320,379 </habitantes>
+    <altura name="Altura">545 MSNM</altura>
+    <moneda name="Moneda: ">dolar</moneda>
+    <codigoTelefonico name="CodigoTelefonico: ">503</codigoTelefonico>
+    <idiomaOficial name="Idioma: ">Espanol</idiomaOficial>
+    <idiomaSegundo name="SegundoIdioma: ">Ingles</idiomaSegundo>
+    <area name="Area: ">1223.61 km cuadrados</area>
+  </departamento>
+
+  <departamento id="3" name="San Miguel">
+    <cabecera name="Cabecera: ">San Miguel</cabecera>
+    <habitantes name="Habitantes: ">520 022 </habitantes>
+    <altura name="Altura">336 MSNM</altura>
+    <moneda name="Moneda: ">dolar</moneda>
+    <codigoTelefonico name="CodigoTelefonico: ">503</codigoTelefonico>
+    <idiomaOficial name="Idioma: ">Espanol</idiomaOficial>
+    <idiomaSegundo name="SegundoIdioma: ">Ingles</idiomaSegundo>
+    <area name="Area: ">2077 km cuadrados</area>
+  </departamento>
+
+</pais>
